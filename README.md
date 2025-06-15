@@ -6,8 +6,7 @@
 <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/adding.png" width = 400  height = 250> <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/addingWarning.png" width = 400  height = 250>
 
 ## Deleting
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deleting.png" width = 200  height = 300>
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deleted.png" width = 500  height = 300>
+<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deletingg.png" width = 400  height = 300> <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deleted..png" width = 400  height = 300>
 
 # Normal Adding
 <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladd.png" width = 400  height = 300> <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladded.png" width = 400  height = 300>
