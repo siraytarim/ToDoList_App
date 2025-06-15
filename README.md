@@ -10,5 +10,4 @@
 <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deleted.png" width = 500  height = 300>
 
 # Normal Adding
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladd.png" width = 400  height = 300>
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladded.png" width = 400  height = 300>
+<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladd.png" width = 400  height = 300> <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/normaladded.png" width = 400  height = 300>
