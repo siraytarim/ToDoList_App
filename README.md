@@ -3,8 +3,7 @@
 <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/general.png" width=650 height=400>
 
 ## Priority Warning
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/adding.png" width = 200  height = 300>
-<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/addingWarning.png" width = 200  height = 300>
+<img src= "https://github.com/siraytarim/ToDoList_App/blob/main/adding.png" width = 400  height = 250> <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/addingWarning.png" width = 400  height = 250>
 
 ## Deleting
 <img src= "https://github.com/siraytarim/ToDoList_App/blob/main/deleting.png" width = 200  height = 300>
